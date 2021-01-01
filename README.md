@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, Welcome!! take a seat let me brief you
+
+I'm Progress Ojemeh, a 'web obsessed' software developer currently based in Nigeria
 
 <!--
 **Rex739/Rex739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
