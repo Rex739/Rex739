@@ -2,7 +2,7 @@
 
 I'm Progress Ojemeh, a 'web obsessed' software developer currently based in Nigeria.
 I like learning new technologies.
-Currently conversant with HTML5, CSS3, BOOTSTRAP, JAVACRIPT ES6, REACT&REDUX 
+Currently conversant with HTML5, CSS3, BOOTSTRAP, TAILWIND CSS, JAVACRIPT, REACT&REDUX, NEXTJS, TYPESCRIPT
 
 
 
