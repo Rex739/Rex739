@@ -5,5 +5,5 @@
 
 ## I'm a Software Developer!!
 
-- 🔭 i'm currently massively involved in several Binance Smart Chain community projects <img align="left" alt="Binance Smart Chain" width="22px" src="img/bsc.svg"/>
-	. Frontend Lead of <img align="left" alt="Binance Smart Chain" width="22px" src="img/oreoswap.png"/>OreoSwap
+- i'm currently massively involved in several Binance Smart Chain community projects <img align="left" alt="Binance Smart Chain" width="22px" src="img/bsc.svg"/> <br />
+- Frontend Lead of <img align="left" alt="Binance Smart Chain" width="22px" src="img/oreoswap.png"/>OreoSwap
