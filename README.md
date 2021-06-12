@@ -6,4 +6,8 @@
 ## I'm a Software Developer!!
 
 - i'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in React, Solidity, TypeScript ....
-- i'm actively contributing to Binance Smart Chain 
+- i'm actively contributing to Binance Smart Chain Projects
+- Currently Frontend Lead of <a href="https://github.com/Oreoswap-BSC"><img alt="OreoSwap" src="img/oreoswap.png"/></a>
+- Active team member of AlphOne
+- learning is continous right, yeah as you expected, i'm learning new technologies  
+- At my leisure time, i love playing games man!
