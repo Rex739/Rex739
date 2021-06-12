@@ -20,9 +20,11 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Nextjs" width="26px" src="img/nextjs.svg" />
 <img align="left" alt="TypeScript" width="26px" src="img/typescript.png" />
-<img align="left" alt="Solidity" width="26px" src="img/solidity.png" />
+<img align="left" alt="Solidity" width="24px" src="img/solidity.png" />
 <img align="left" alt="TailWind Css" width="26px" src="img/tailwind.png" />
 
+
+<br/>
 ### Connect with me:
 
 [<img align="left" alt="Twitter " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
