@@ -23,16 +23,20 @@
 <img align="left" alt="Solidity" width="20px" src="img/solidity.png" />
 <img align="left" alt="TailWind Css" width="30px" src="img/tailwind.png" />
 
+---
 
-<br/>
+## My GitHub Stats &#x1f4c8;
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rex739&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rex739&theme=tokyonight" />
+ 
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rex739&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rex739&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-</details>
+</p>
 
+---
 
 ### Connect with me:
 
