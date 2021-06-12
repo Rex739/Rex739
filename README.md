@@ -23,7 +23,6 @@
 <img align="left" alt="Solidity" width="20px" src="img/solidity.png" />
 <img align="left" alt="TailWind Css" width="30px" src="img/tailwind.png" />
 
----
 
 ## My GitHub Stats &#x1f4c8;
 
