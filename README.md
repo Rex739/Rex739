@@ -25,6 +25,7 @@
 
 
 ### My GitHub Stats &#x1f4c8;
+---
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rex739&show_icons=true&theme=tokyonight" />
