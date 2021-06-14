@@ -22,6 +22,7 @@
 <img align="left" alt="TypeScript" width="30px" src="img/typescript.png" />
 <img align="left" alt="Solidity" width="20px" src="img/solidity.png" />
 <img align="left" alt="TailWind Css" width="30px" src="img/tailwind.png" />
+<img align="left" alt="Web3 js" width="30px" src="img/web3.png" />
 
 ---
 
