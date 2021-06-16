@@ -9,7 +9,7 @@
 - i'm actively contributing to Binance Smart Chain Projects
 - Currently Frontend Lead of <a href="https://github.com/Oreoswap-BSC">OreoSwap<img alt="OreoSwap" src="img/oreoswap-mobile.png" width="15px"/></a>
 - Active team member of <a href="https://github.com/MasterClass16">AlphOne</a>
-- also team Member of  <a href="https://github.com/Tendity">Tendity/a>
+- also team Member of  <a href="https://github.com/Tendity">Tendity</a>
 - learning is continous right, yeah as you expected, i'm learning new technologies  
 - At my leisure time, i love playing games man!
 
