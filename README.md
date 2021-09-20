@@ -8,7 +8,7 @@
 - i'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in React, Solidity, TypeScript ....
 - i'm actively contributing to Binance Smart Chain Projects
 - Currently Frontend Lead of <a href="https://github.com/Oreoswap-BSC">OreoSwap<img alt="OreoSwap" src="img/oreoswap-mobile.png" width="15px"/></a>
-- Active team member of <a href="https://github.com/MasterClass16">AlphOne</a>
+- Core Member of <a href="https://github.com/Quatre-Finance">Quatre Finance</a>
 - Building <a href="https://github.com/Tendity">Tendity</a> with an amazing team
 - learning is continous right, yeah as you expected, i'm learning new technologies  
 - At my leisure time, i love playing games man!
