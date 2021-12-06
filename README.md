@@ -34,8 +34,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rex739&theme=tokyonight" />
  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rex739&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rex739&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 ## Connect with me:
