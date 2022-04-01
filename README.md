@@ -10,7 +10,7 @@
 - Currently Frontend Lead of <a href="https://github.com/oreoswap">OreoSwap<img alt="OreoSwap" src="img/oreoswap-mobile.png" width="15px"/></a>
 - Core Member of <a href="https://github.com/Quatre-Finance">Quatre Finance</a>
 - learning new technologies  
-- At my leisure time, i love playing games man!
+- At my leisure time, i love playing games man! 
 
 ## Languages and Tools:
 
