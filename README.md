@@ -9,7 +9,7 @@
 - i'm actively contributing to Binance Smart Chain Projects
 - Core Member of <a href="https://github.com/Quatre-Finance">Quatre Finance</a>
 - learning new technologies  
-- At my leisure time, i love playing games man! 
+- At my leisure time, i love gaming
 
 ## Languages and Tools:
 
