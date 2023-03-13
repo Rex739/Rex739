@@ -29,7 +29,6 @@
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rex739&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rex739&theme=tokyonight" />
 </p>
 
 ## Connect with me:
