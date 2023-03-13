@@ -6,10 +6,9 @@
 ## I'm a Software Developer!!
 
 - i'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in React, Solidity, TypeScript ....
-- i'm actively contributing to Binance Smart Chain Projects
 - Core Member of <a href="https://github.com/Quatre-Finance">Quatre Finance</a>
 - learning new technologies  
-- At my leisure time, i love gaming
+- Game Boy :)
 
 ## Languages and Tools:
 
