@@ -34,8 +34,8 @@
 ## Connect with me:
 
 [<img align="left" alt="Twitter " width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" />][instagram]
 
 
 [twitter]: https://twitter.com/ojemehprogrex
