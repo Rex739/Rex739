@@ -3,12 +3,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ojemehprogrex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fojemehprogrex&screen_name=ojemehprogrex)
 
 
-## Web3 Engineer here :) 🫠
+## Web3 Engineer here 🫠
 
-- i'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in React, Solidity, TypeScript ....
+- I'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in React, Solidity, TypeScript ....
 - Core Member of <a href="https://github.com/Quatre-Finance">Quatre Finance</a>
-- learning new technologies  
-- Game Boy :)
+- Constantly learning new technologies  
+- Game Boy 🙃
 
 ## Languages and Tools:
 
