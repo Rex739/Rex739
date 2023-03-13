@@ -1,4 +1,4 @@
-### Hello there, i'm Progress, U can as well call me Rex 😜
+### Hello there, i'm Progress, people call me Rex too 🙃
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ojemehprogrex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fojemehprogrex&screen_name=ojemehprogrex)
 
