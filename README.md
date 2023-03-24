@@ -8,7 +8,7 @@
 - I'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in React, Solidity, TypeScript ....
 - Core Member of <a href="https://github.com/Quatre-Finance">Quatre Finance</a>
 - Constantly learning new technologies  
-- Game Boy 🙃
+- Game Boy ;)
 
 ## Languages and Tools:
 
