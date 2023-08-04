@@ -23,12 +23,7 @@
 <img align="left" alt="TailWind Css" width="30px" src="img/tailwind.png" />
 <img align="left" alt="Web3 js" width="30px" src="img/web3.png" />
 
-
-
-
-
-
-
+##
 
 ## My GitHub Stats:
 
