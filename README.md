@@ -5,11 +5,11 @@
 
 ## Software Developer 🫠
 
-- I'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in React, Next js, Typescript, Solidity...
+- 👨‍💻 I'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in React, Next js, Typescript, Solidity...
 -  🔭 Currently working on a chat messaging app, not figured out the name yet... lol
-- Constantly learning new technologies && skills
-- I freelance too, so if you have some ideas, you know, something you've been thinking of, but can't wrap your head around how you're going to give it 'life', or you have a design and you 'need' 'a capable hand', whatever the case might be, I'M YOUR MAN. contact me🫠
-- Finally, if you 'desire' to get whopped in Call Of Duty Mobile😅😅, contact me.
+- 🌱 Constantly learning new technologies && skills
+- 👨‍💻 I freelance too, so if you have some ideas, you know, something you've been thinking of, but can't wrap your head around how you're going to give it 'life', or you have a design and you 'need' a 'capable hand', whatever the case might be, I'M YOUR MAN. contact me🫠
+- 😁 Finally, if you 'desire' to get whopped in Call Of Duty Mobile😅😅, contact me.
 
 ## Languages and Tools:
 
@@ -28,7 +28,7 @@
 ## My GitHub Stats:
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rex739&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=rex739" />
 </p>
 
 ## Connect with me:
