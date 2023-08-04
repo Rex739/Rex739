@@ -8,7 +8,7 @@
 - 👨‍💻 I'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in React, Next js, Typescript, Solidity...
 -  🔭 Currently working on a chat messaging app, not figured out the name yet... lol
 - 🌱 Constantly learning new technologies && skills
-- 👨‍💻 I freelance too, so if you have some ideas, you know, something you've been thinking of, but can't wrap your head around how you're going to give it 'life', or you have a design and you 'need' a 'capable hand', whatever the case might be, I'M YOUR MAN. contact me🫠
+- 👨‍💻 I freelance too, so if you have some ideas, you know, something you've been thinking of, but can't wrap your head around how you're going to give it 'life', or you have a design and you 'need' a 'capable hand', whatever the case might be, I'M YOUR MAN. Contact me🫠
 - 😁 Finally, if you 'desire' to get whopped in Call Of Duty Mobile😅😅, contact me.
 
 ## Languages and Tools:
@@ -39,5 +39,5 @@
 
 
 [twitter]: https://twitter.com/ojemehprogrex
-[instagram]: https://www.instagram.com/p_rex1
+[instagram]: https://www.instagram.com/rex.dev_
 [linkedin]: https://www.linkedin.com/in/ojemeh-progress-459730190
