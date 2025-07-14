@@ -17,29 +17,36 @@ I’m a passionate software developer with **5+ years of experience** building d
 
 ---
 
-### ⚒️ Tech Stack
+### 🛠️ Tech I'm Skilled In
 
-#### Languages & Libraries
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+#### **Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)  
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 
-#### Frameworks & Tools
-![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
-![Clerk](https://img.shields.io/badge/-Clerk-3E1EAD?style=flat&logo=clerk)
-![Zod](https://img.shields.io/badge/-Zod-000000?style=flat)
-![Ankr](https://img.shields.io/badge/-Ankr-3666E0?style=flat&logo=ankr)
+#### **Frameworks & Runtime**  
+![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
-#### Blockchain & Web3
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-3C3C3D?style=flat)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat)
-![Metamask](https://img.shields.io/badge/-Metamask-F6851B?style=flat&logo=metamask)
-![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat&logo=ipfs)
+#### **Blockchain**  
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)  
+![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat&logo=solana&logoColor=white)  
+![Sui](https://img.shields.io/badge/-Sui-0E76FD?style=flat)
+
+#### **DevOps & Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-blue?style=flat&logo=githubactions&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+#### **Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
